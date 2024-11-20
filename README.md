@@ -62,7 +62,8 @@ Run the script to perform EDA and generate visualizations. Key outputs include:
 
 ## Sample Outputs
 1. **Correlation Heatmap:**
-   ![image](https://github.com/user-attachments/assets/5ea635b7-b267-4680-b90d-f0c28ce74de4)
+
+ ![image](https://github.com/user-attachments/assets/5ea635b7-b267-4680-b90d-f0c28ce74de4)
 
    
 2. **Population Trend Plot:**
